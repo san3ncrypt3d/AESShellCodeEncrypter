@@ -1,0 +1,6 @@
+C:\Users\san3n\source\repos\AesEnc\AesEnc\obj\x64\Release\AesEnc.csproj.CoreCompileInputs.cache
+C:\Users\san3n\source\repos\AesEnc\AesEnc\bin\x64\Release\AesEnc.exe.config
+C:\Users\san3n\source\repos\AesEnc\AesEnc\bin\x64\Release\AesEnc.exe
+C:\Users\san3n\source\repos\AesEnc\AesEnc\bin\x64\Release\AesEnc.pdb
+C:\Users\san3n\source\repos\AesEnc\AesEnc\obj\x64\Release\AesEnc.exe
+C:\Users\san3n\source\repos\AesEnc\AesEnc\obj\x64\Release\AesEnc.pdb
